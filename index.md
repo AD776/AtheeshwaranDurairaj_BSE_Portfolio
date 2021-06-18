@@ -11,7 +11,10 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 </html>
 
 # First Milestone
-My first milestone was assembling my robot arm and controlling it from my computer. To accomplish this, I first got two servo motors working using a breadboard, and I programmed the Arduino to rotate the servos to a certain degree taking input from my computer using serial monitor. Then, I built the robot arm from the base to the head and claw of the arm. Finally, I got two more servos working and connected the four servos to the robot arm. By controlling the servo motors, I was able to to control the robot arm from my computer.
+My first milestone was assembling my robot arm and controlling it from my computer. To accomplish this, I first got two servo motors working using a breadboard. I got the servos to work by connecting the servo control signal line or the orange wire in my project to one of the digital PWM pins on the Arduino and the power and ground to the power and ground the Arduino. One of my key learning moments was learning about PWN or Pulse Width Modulation. Normally by using an analog pin can only be on or off but with a PWM pin certain degree<img width="602" alt="Screen Shot 2021-06-18 at 1 23 20 PM" src="https://user-images.githubusercontent.com/78531446/122612688-679cb000-d038-11eb-8fc5-7ce77f82d8f0.png">
+
+
+I programmed the Arduino to rotate the servos to a certain degree taking input from my computer using serial monitor. Then, I built the robot arm from the base to the head and claw of the arm. Finally, I got two more servos working and connected the four servos to the robot arm. By controlling the servo motors, I was able to to control the robot arm from my computer.
 
 [![ArmUno 2.0 Robotic Arm Assembly](https://res.cloudinary.com/marcomontalbano/image/upload/v1623998085/video_to_markdown/images/youtube--1mHbz-7n69Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1mHbz-7n69Q&t=6s "ArmUno 2.0 Robotic Arm Assembly"){:target="_blank" rel="noopener"}
 
