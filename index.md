@@ -6,6 +6,7 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 | Atheeshwaran Durairaj | Carlmont High School | Computer Science Engineering | Rising Senior
 
 ![Arduino Robot Arm](https://images-na.ssl-images-amazon.com/images/I/61x%2Bd7LemCL._AC_SX425_.jpg)
+![Servos Schematic] (/Users/atheeshwarandurairaj/Desktop/Servos Schematic.png)
 
 # First Milestone
 My first milestone was assembling my robot arm and controlling it from my computer. To accomplish this, I first got two servo motors working using a breadboard, and I programmed the Arduino to rotate the servos to a certain degree taking input from my computer using serial monitor. Then, I built the robot arm from the base to the head and claw of the arm. Finally, I got two more servos working and connected the four servos to the robot arm. By controlling the servo motors, I was able to to control the robot arm from my computer.
