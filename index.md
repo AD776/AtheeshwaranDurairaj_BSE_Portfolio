@@ -1,3 +1,5 @@
+<img width="960" alt="Servos Schematic " src="https://user-images.githubusercontent.com/78531446/122608619-63b95f80-d031-11eb-837d-485f1d352e8e.png">
+<img width="960" alt="Servos Schematic " src="https://user-images.githubusercontent.com/78531446/122608648-70d64e80-d031-11eb-960e-632eb915acff.png">
 ﻿# Phone Controlled Robot Arm
 I am working on an Arduino robot arm that is controlled by an Android app of my design using MIT App Inventor.
 
