@@ -1,12 +1,15 @@
 ﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I am working on an Arduino robot arm that is controlled by an Android app of my design using MIT App Inventor.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Atheeshwaran Durairaj | Carlmont High School | Computer Science Engineering | Rising Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![Arduino Robot Arm](https://images-na.ssl-images-amazon.com/images/I/61x%2Bd7LemCL._AC_SX425_.jpg)
+
+[![ArmUno 2.0 Robotic Arm Assembly](https://res.cloudinary.com/marcomontalbano/image/upload/v1623998085/video_to_markdown/images/youtube--1mHbz-7n69Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1mHbz-7n69Q&t=6s "ArmUno 2.0 Robotic Arm Assembly"){:target="_blank" rel="noopener"}
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
