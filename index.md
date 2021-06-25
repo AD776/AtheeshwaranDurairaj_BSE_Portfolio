@@ -19,7 +19,8 @@ My first milestone was assembling my robot arm and controlling it from my comput
 My second milestone was controlling the robot arm from my phone using the Bluetooth provided by the ESP32. The ESP32 is a microcontroller with integrated Wi-Fi and dual-mode Bluetooth, making it a better alternative to the Arduino Uno board that I previously used in my first milestone. With the ESP32, I first set up a connection between a Bluetooth serial terminal app on my phone and the serial monitor on my computer using an example code. I was able to send and receive String text from the app on my phone. I then implemented this same logic to my program controlling the robot arm. However, one challenge that I faced in my own code was that the String text was not displaying in the serial monitor or would display an integer that I did not input. After researching and seeking advice from my instructors, I discovered that the serial monitor received ASCII integer values of the text I sent from my phone. To resolve this problem, I wrote a separate method to convert the ASCII values into their String equivalents, and I was able to successfully control the robot arm from my phone.
 
 # Third Milestone
+My third and final milestone was creating a mobile app using the MIT App Inventor and controlling the robot arm using the app. 
 <img width="872" alt="MIT App Inventor Design" src="https://user-images.githubusercontent.com/78531446/123488445-d5128880-d5c4-11eb-9879-e866000080a1.png">
-<img width="1440" alt="MIT App Inventor Blocks" src="https://user-images.githubusercontent.com/78531446/123488885-aea11d00-d5c5-11eb-8c15-28309a68f599.png">
+<img width="1660" alt="MIT App Inventor Blocks" src="https://user-images.githubusercontent.com/78531446/123488885-aea11d00-d5c5-11eb-8c15-28309a68f599.png">
 
 
