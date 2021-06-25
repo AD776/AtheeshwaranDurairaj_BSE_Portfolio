@@ -20,5 +20,6 @@ My second milestone was controlling the robot arm from my phone using the Blueto
 
 # Third Milestone
 <img width="872" alt="MIT App Inventor Design" src="https://user-images.githubusercontent.com/78531446/123488445-d5128880-d5c4-11eb-9879-e866000080a1.png">
-<img width="1179" alt="MIT App Inventor Blocks" src="https://user-images.githubusercontent.com/78531446/123488458-d93ea600-d5c4-11eb-8dd8-19fca382c1b9.png">
+<img width="1440" alt="MIT App Inventor Blocks" src="https://user-images.githubusercontent.com/78531446/123488885-aea11d00-d5c5-11eb-8c15-28309a68f599.png">
+
 
