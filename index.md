@@ -21,6 +21,8 @@ My second milestone was controlling the robot arm from my phone using the Blueto
 # Third Milestone
 My third and final milestone was creating a mobile app using the MIT App Inventor and controlling the robot arm using the app. 
 <img width="872" alt="MIT App Inventor Design" src="https://user-images.githubusercontent.com/78531446/123488445-d5128880-d5c4-11eb-9879-e866000080a1.png">
-<img width="1660" alt="MIT App Inventor Blocks" src="https://user-images.githubusercontent.com/78531446/123488885-aea11d00-d5c5-11eb-8c15-28309a68f599.png">
+<html> 
+<img src="https://user-images.githubusercontent.com/78531446/123494670-84eff200-d5d5-11eb-9f31-ff3a6d1efc57.png" width="1800" height="687">
+</html>
 
 
