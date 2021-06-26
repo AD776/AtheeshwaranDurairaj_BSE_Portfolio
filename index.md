@@ -5,7 +5,6 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 |:--:|:--:|:--:|:--:|
 | Atheeshwaran Durairaj | Carlmont High School | Computer Science Engineering | Rising Senior
 
-![Arduino Robot Arm](https://images-na.ssl-images-amazon.com/images/I/61x%2Bd7LemCL._AC_SX425_.jpg)
 <img width="603" alt="Servo Diagram" src="https://user-images.githubusercontent.com/78531446/123496354-8d97f680-d5dc-11eb-9767-633a3cb42290.png">
 
 # First Milestone
