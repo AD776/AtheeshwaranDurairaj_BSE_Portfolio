@@ -10,7 +10,7 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 
 # Demo Night
 <html>
-<P><H2></B>Conclusion</B></H2></P>
+<P><H2>Conclusion</H2></P>
 </html>
   
 [![Atheeshwaran's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625254314/video_to_markdown/images/youtube--p377bxyQqYA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=p377bxyQqYA "Atheeshwaran's Demo Night Video")
