@@ -9,11 +9,12 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 ![Final Product](https://user-images.githubusercontent.com/78531446/124036795-6e6de000-d9b3-11eb-8833-5ddbb658a3cf.jpg)
 
 # Demo Night
+[![Atheeshwaran's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625254314/video_to_markdown/images/youtube--p377bxyQqYA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=p377bxyQqYA "Atheeshwaran's Demo Night Video")
+
 <html>
 <P><H2>Conclusion</H2></P>
 </html>
-  
-[![Atheeshwaran's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625254314/video_to_markdown/images/youtube--p377bxyQqYA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=p377bxyQqYA "Atheeshwaran's Demo Night Video")
+Throughout this program, I have learned a lot about engineering, including exploring the electrical and mechanical aspects of engineering. In the beginning, while I had a strong programming background in Java and Python, I had no idea about what Arduino, ESP32, servos, and ultrasonic sensors were. Now, I can confidently say that I understand some of the electrical components and the programming. By using the Arduino IDE for my project, I have become proficient in programming in C++ as well. As someone who aspires to be a computer science engineer, going through the process of building a robot arm has better equipped me to be an active problem solver and address complications I may encounter. My experience here at BlueStamp has been very enjoyable and instrumental, considering the many challenges I overcame. From this wonderful experience, I learned that with patience and persistence, I can accomplish the builds and projects of my dreams.
 
 # Third Milestone + Modifications 
 My third milestone was optimizing my code and the controls on App Inventor to gain complete control of the robot arm. Some changes that I made include adjusting the min and max values on the sliders in the App Inventor to cover the range of motion of the servo motors and decreasing the delay in my code for smooth movement of the robot arm.
