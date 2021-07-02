@@ -5,11 +5,13 @@ I am working on an Arduino robot arm that is controlled by an Android app of my 
 |:--:|:--:|:--:|:--:|
 | Atheeshwaran D. | Carlmont High School | Computer Science | Rising Senior
 
+# Final Project
+![Final Product](https://user-images.githubusercontent.com/78531446/124036795-6e6de000-d9b3-11eb-8833-5ddbb658a3cf.jpg)
+
 # Demo Night
 [![Atheeshwaran's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625254314/video_to_markdown/images/youtube--p377bxyQqYA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=p377bxyQqYA "Atheeshwaran's Demo Night Video")
 
-# Final Project
-![Final Product](https://user-images.githubusercontent.com/78531446/124036795-6e6de000-d9b3-11eb-8833-5ddbb658a3cf.jpg)
+
 
 # Third Milestone + Modifications 
 My third milestone was optimizing my code and the controls on App Inventor to gain complete control of the robot arm. Some changes that I made include adjusting the min and max values on the sliders in the App Inventor to cover the range of motion of the servo motors and decreasing the delay in my code for smooth movement of the robot arm.
